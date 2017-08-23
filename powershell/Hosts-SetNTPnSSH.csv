@@ -1,0 +1,17 @@
+HostIP,NTPServer0,NTPServer1,Username,Password
+172.27.12.101,ntp.sfo01.rainpole.local,ntp.lax01.rainpole.local,root,VMware1!
+172.27.12.102,ntp.sfo01.rainpole.local,ntp.lax01.rainpole.local,root,VMware1!
+172.27.12.103,ntp.sfo01.rainpole.local,ntp.lax01.rainpole.local,root,VMware1!
+172.27.12.104,ntp.sfo01.rainpole.local,ntp.lax01.rainpole.local,root,VMware1!
+172.27.34.101,ntp.sfo01.rainpole.local,ntp.lax01.rainpole.local,root,VMware1!
+172.27.34.102,ntp.sfo01.rainpole.local,ntp.lax01.rainpole.local,root,VMware1!
+172.27.34.103,ntp.sfo01.rainpole.local,ntp.lax01.rainpole.local,root,VMware1!
+172.27.34.104,ntp.sfo01.rainpole.local,ntp.lax01.rainpole.local,root,VMware1!
+172.28.21.101,ntp.lax01.rainpole.local,ntp.sfo01.rainpole.local,root,VMware1!
+172.28.21.102,ntp.lax01.rainpole.local,ntp.sfo01.rainpole.local,root,VMware1!
+172.28.21.103,ntp.lax01.rainpole.local,ntp.sfo01.rainpole.local,root,VMware1!
+172.28.21.104,ntp.lax01.rainpole.local,ntp.sfo01.rainpole.local,root,VMware1!
+172.29.13.101,ntp.lax01.rainpole.local,ntp.sfo01.rainpole.local,root,VMware1!
+172.29.13.102,ntp.lax01.rainpole.local,ntp.sfo01.rainpole.local,root,VMware1!
+172.29.13.103,ntp.lax01.rainpole.local,ntp.sfo01.rainpole.local,root,VMware1!
+172.29.13.104,ntp.lax01.rainpole.local,ntp.sfo01.rainpole.local,root,VMware1!
